@@ -1,1 +1,1 @@
-import minimax.minimax
+from minimax import bot
